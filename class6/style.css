@@ -1,0 +1,30 @@
+/* Target with ID */
+
+/* #main-heading {
+    background-color: green;
+    color: white;
+    border: 3px solid black;
+}
+
+#main-heading-1 {
+    background-color: green;
+    color: white;
+    border: 3px solid black;
+} */
+
+/* Target with class */
+
+.main-heading{
+    background-color: red;
+    color: white;
+    border: 3px solid yellow;
+}
+
+
+.container{
+    width: 200px;
+    height: 200px;
+    background-color: cyan;
+    border: 2px solid black;
+    margin-left: 400px;
+}
